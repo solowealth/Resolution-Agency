@@ -1,0 +1,223 @@
+* {
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+
+}
+
+header {
+    background-color: rgb(75, 26, 121);
+}
+
+.header-section {
+    max-width: 1100px;
+    margin: 0px auto;
+    padding-top: 30px;
+    color: white;
+    background-color: rgb(75, 26, 121);
+
+}
+
+.section-1 {
+    max-width: 1100px;
+    margin: 0px auto;
+    margin-top: 30px;
+    background-color: rgb(75, 26, 121);
+    color: white;
+}
+
+.section-2 {
+    max-width: 1100px;
+    margin: 0px auto;
+    margin-top: 30px;
+}
+
+.section-3 {
+    max-width: 1100px;
+    margin: 0px auto;
+    margin-top: 30px;
+    color: rgb(48, 12, 83);
+}
+
+.section-4 {
+    max-width: 1100px;
+    margin: 0px auto;
+    margin-top: 30px;
+    color: rgb(48, 12, 83);
+}
+
+.section-5 {
+    max-width: 1100px;
+    margin: 0px auto;
+    margin-top: 30px;
+}
+
+.section-6 {
+    max-width: 1100px;
+    margin: 0px auto;
+    margin-top: 30px;
+    /* background-color: rgb(75, 26, 121); */
+}
+
+.section-7 {
+    max-width: 1100px;
+    margin: 0px auto;
+    padding-top: 30px;
+    text-align: center;
+    background-color: rgb(4, 4, 67);
+    color: white;
+}
+
+.header-list {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 400px;
+
+}
+
+.header-div {
+    display: flex;
+    background-color: rgb(75, 26, 121);
+    position: absolute;
+}
+
+.header-list-item {
+    padding-left: 10px;
+    overflow: hidden;
+}
+
+.btn {
+    height: 45px;
+    width: 150px;
+
+    border-radius: 0px 20px 0px 20px;
+    text-align: center;
+    background: linear-gradient(110deg, rgb(246, 73, 116), rgb(243, 224, 115));
+}
+
+h1 {
+    font-size: 50px;
+}
+h3 {
+    color: rgb(231, 166, 47);
+}
+
+.section1Div {
+    display: flex;
+    padding-top: 20px;
+}
+
+.about-agency-container {
+    display: flex;
+}
+
+.resolution-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.ourFunction {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+
+.our-features {
+    margin-left: 400px;
+    margin-bottom: 20px;
+}
+
+.our-blog {
+    margin-left: 400px;
+    margin-bottom: 20px;
+}
+
+.specialization-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 2px 1px 2px 1px;
+}
+
+.our-features-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.blog-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.achievement-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    height: 80px;
+}
+
+.why-agency-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    color: rgb(48, 12, 83);
+}
+
+.specialization-container {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    height: 400px;
+
+}
+
+.our-features-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.blog-image-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(75, 26, 121);
+    color: white;
+}
+
+hr {
+    width: 200px;
+    height: 5px;
+    background: linear-gradient(110deg, rgb(246, 73, 116), rgb(243, 224, 115));
+}
+
+.achievement-count {
+    padding-top: 15px;
+    border-radius: 5px;
+    box-shadow: 3px 2px 2px 2px;
+}
+
+.our-specialization {
+margin-left: 400px;
+margin-bottom: 20px;
+}
+
+.our-features-panel {
+    display: flex;
+    flex-direction: column;;
+    justify-content: space-evenly;
+}
+
+.blog-image {
+    height: 300px;
+    width: 500px;
+}
